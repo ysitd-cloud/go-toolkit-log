@@ -1,2 +1,4 @@
 package: code.ysitd.cloud/toolkit/log
-import: []
+import:
+- package: github.com/sirupsen/logrus
+  version: ^1.0.4
